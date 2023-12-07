@@ -3,7 +3,7 @@
 This repository is the official PyTorch implementation of **ViR: Towards Efficient Vision Retention Backbones**.
 
 <p align="center">
-<img src="https://github.com/anom63931/ViR/assets/118462623/4a8f50c6-39ac-46ec-bd31-6436efc12d01" width=63% height=63% 
+<img src="./assets/vir.png" width=63% height=63% 
 class="center">
 </p>
 
